@@ -47,8 +47,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** with
 
 ## 📫 How to reach me:
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 📧 **Email**: [your-email@example.com](1nikhilsaini234@gmail.com)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nikhilsaini0/)
 - 🌐 **Portfolio**: [Your Portfolio Website](https://your-portfolio-link.com)
 
 ---
