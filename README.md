@@ -44,6 +44,9 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** with
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
 
 ## 📫 How to reach me:
 
