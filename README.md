@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** with
 
 - 🎓 **Diploma** in Computer Science and Engineering.
 - 🔭 Currently building projects that solve real-world problems and enhance user experience.
-- 💻 Skilled in **HTML, CSS, JavaScript, React, MongoDB**, and **SQL**.
+- 💻 Skilled in **HTML, CSS, JavaScript, React, MongoDB, Express, NodeJS**, and **SQL**.
 - 🚀 Exploring **Data Structures & Algorithms** to sharpen problem-solving abilities.
 - 📚 Always learning and keeping up with the latest tech trends.
 - 🌍 From Moradabad, UP, famous for its brass craftsmanship and delicious biryani. 😋
