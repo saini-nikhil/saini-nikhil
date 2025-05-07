@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** with
 
 ### Database:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&width=150)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&width=150)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&width=150)
